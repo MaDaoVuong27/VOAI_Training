@@ -1,0 +1,5 @@
+# =========================
+# Data & datasets
+# =========================
+# Ignore all "data" folders anywhere in the project
+**/data/
