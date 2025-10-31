@@ -4,3 +4,4 @@
 # Ignore all "data" folders anywhere in the project
 **/data/
 ***/data/
+****/data/
